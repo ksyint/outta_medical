@@ -1,0 +1,8 @@
+[
+    {
+        "img_path": "train_data/1.jpeg",
+        "reject": "The image is a chest X-ray showing the thoracic region of a patient in a semi-erect position. The X-ray reveals the presence of a central venous catheter, which is a thin tube inserted into a central vein and connected to a central venous catheter port. The catheter appears to be properly positioned within the central venous system. The lungs appear to be clear, with no obvious abnormalities visible. The heart size and shape appear normal. The bony structures, including the ribs and spine, are also visible and appear unremarkable.",
+        "accept": "Lung volumes are low. Retrocardiac opacity with silhouetting of the left hemidiaphragm and lateral border of the descending aorta is nonspecific and could reflect any of a combination of atelectasis, focal pneumonia or even a small effusion. Right infrahilar opacity with slight indistinctness of the right heart border could reflect infection in the appropriate clinical scenario. Apparent elevation of the right hemidiaphragm may be related to positioning and technique versus volume loss. There is cardiomegaly, but no CHF. Aortic calcifications are present. No pneumothorax.",
+        "reference": "chest x-ray; 'Cardiomegaly'; 'Lung Opacity'"
+    }
+]
